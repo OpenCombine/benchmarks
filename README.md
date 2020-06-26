@@ -274,7 +274,7 @@ If needed you can multiply N by a fixed amount (e.g. `1...100*N`) to achieve thi
 
 **Performance Test Template**
 
-``` {.sourceCode .swift}
+```swift
 // YourTestName benchmark
 //
 // rdar://problem/00000000
